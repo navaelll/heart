@@ -36,7 +36,7 @@ const HeartCloud = () => {
   const particles = useMemo(() => {
     const temp = [];
     const count = 250; // Optimized count
-    const text = "love you jeyaa";
+    const text = "i love you so much jeya";
     
     for (let i = 0; i < count; i++) {
         const t = Math.random() * Math.PI * 2;
